@@ -1,0 +1,12 @@
+{
+  "mode": "by_keywords",
+  "keywords": [
+    "цена",
+    "подробнее",
+    "как работает"
+  ],
+  "reply_style": "natural_helpful",
+  "limits": {
+    "messages_per_account": 20
+  }
+}
