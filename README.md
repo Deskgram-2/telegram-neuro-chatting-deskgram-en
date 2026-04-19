@@ -12,6 +12,24 @@ Try the module interface in the browser: [Open web preview](https://deskgram2.co
 
 If you want to review trigger logic and AI response settings before installation, the browser preview is the fastest entry point. It lets you inspect the chat workflow without configuring anything locally first.
 
+## Interface highlights
+
+### Main workspace
+
+![Neuro Chatting Main](assets/screenshots/neuro-chatting__main__en.png)
+
+### Triggers
+
+![Triggers](assets/screenshots/neuro-chatting__triggers__en.png)
+
+### AI settings
+
+![AI Settings](assets/screenshots/neuro-chatting__ai-settings__en.png)
+
+### Autoresponder layer
+
+![Autoresponder Layer](assets/screenshots/neuro-chatting__autoresponder__en.png)
+
 ## About the module
 
 | Parameter | What is inside |
