@@ -1,14 +1,14 @@
-# Telegram Neuro Chatting with Deskgram 2
+﻿# Telegram Neuro Chatting with Deskgram 2
 
 Telegram Neuro Chatting is a Deskgram 2 module for AI-based replies in Telegram chats and groups. It helps you react to incoming discussions with defined rules, trigger-based logic, and adaptable AI answers instead of handling the full chat flow manually.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting&lang=en)
 
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting&lang=en)
 
 If you want to review trigger logic and AI response settings before installation, the browser preview is the fastest entry point. It lets you inspect the chat workflow without configuring anything locally first.
 
@@ -115,4 +115,5 @@ Prepare the list of chat sources, the trigger logic, the AI tone, and the accoun
 
 - [Deskgram 2 website](https://deskgram2.com/)
 - [Deskgram 2 Telegram bot](https://t.me/DG2welcomebot)
-- [Open neuro chatting web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting)
+- [Open neuro chatting web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting&lang=en)
+
